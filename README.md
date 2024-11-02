@@ -11,6 +11,6 @@ Typora _v0.11.18 最新免费版安装包（后面的v1.0就开始收费了）
 - 修改里面的时间到2099年
 - ![image](https://github.com/user-attachments/assets/3f31d71a-2783-4431-a6ab-521a8c07289e)
 
-- 修改`**所有的**用户的权限`，让用户没有修改的权限
+- 修改**所有的用户的权限**，让用户没有修改的权限
 ![image](https://github.com/user-attachments/assets/3b00f359-1b20-4623-8f7a-cd2f1bb20fdc)
-- 重新打开软件就能用了
+- 重新打开软件就能用了。
