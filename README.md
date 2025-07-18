@@ -23,3 +23,13 @@ YA63N-2KPNK-FETLY-MKR89-TPJRE
 THUV2-32HH7-6NMHN-PTX7Y-QQCTH
 R7AKQ-KLBXV-RNX3F-BPACQ-NQDGE
 ```
+```
+激活方式如下：
+
+右击开始图标，打开Windows终端(管理员)，输入以下命令
+
+slmgr -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr -skms kms.0t.net.cn
+slmgr -ato
+
+```
